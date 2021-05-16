@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3145136878159411513
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586447, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_Name
+      value: Anim Controller Hands On - Slide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660546672767, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_text
+      value: "- Cada estado tem um animation clip\n\n- Cada transi\xE7\xE3o \xE9
+        configuravel\n\n-As condi\xE7\xF5es s\xE3o o tempo final da anima\xE7\xE3o
+        ou par\xE2metros setados por c\xF3digo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 58.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 58.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 4895145688188434050, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_text
+      value: Animator Controller
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 139.45795
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -104.23132
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 77.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -59.9
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5175aadeea7954044b964c79ab9ba58d, type: 3}

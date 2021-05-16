@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7057848114994608147
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586446, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586447, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_Name
+      value: Layers - Slide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687761660546672767, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_text
+      value: "- Duas ou mais m\xE1quinas de estados rodando em um animator\n\n-Mistura
+        os estados em rela\xE7\xE3o ao weight da layer e ao tipo de Blending."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4895145688188434050, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_text
+      value: 'Layers
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 3.789917
+      objectReference: {fileID: 0}
+    - target: {fileID: 8327967152948802172, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.21154785
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5175aadeea7954044b964c79ab9ba58d, type: 3}
