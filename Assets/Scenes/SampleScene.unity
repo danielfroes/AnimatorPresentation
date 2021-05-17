@@ -1571,6 +1571,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2363376025503987983, guid: d9f8827859a2440cdb189a675a5d09ab,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -431.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6582688224237816633, guid: d9f8827859a2440cdb189a675a5d09ab,
         type: 3}
       propertyPath: m_Pivot.x
@@ -4266,7 +4271,7 @@ PrefabInstance:
     - target: {fileID: 3288551519114212975, guid: 84857aa15f7914825b6998910be32fe3,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5289071885449789878, guid: 84857aa15f7914825b6998910be32fe3,
         type: 3}
@@ -4277,6 +4282,14 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -22.500977
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743021381418468324, guid: 84857aa15f7914825b6998910be32fe3,
+        type: 3}
+      propertyPath: m_text
+      value: "<b>Animation (Animation Clip):</b> Um asset \nque contem as informa\xE7\xF5es
+        das anima\xE7\xF5es \n     - Janela Animation\n\n\n<b>Animator: </b>Sistema
+        da Unity que controla\nas anima\xE7\xF5es de um GameObjects\n(ou de seus
+        filhos)\n     - Janela Animator"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 84857aa15f7914825b6998910be32fe3, type: 3}
@@ -5933,6 +5946,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Animation Retargeting - Slide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3565584758195686215, guid: b1aa51943f49b4f5eb8da21b30dba58b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3565584758496947191, guid: b1aa51943f49b4f5eb8da21b30dba58b,
         type: 3}

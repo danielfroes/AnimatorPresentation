@@ -10,7 +10,12 @@ PrefabInstance:
     - target: {fileID: 316960253558160002, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.67855835
+      value: -0.67858887
+      objectReference: {fileID: 0}
+    - target: {fileID: 316960253558160002, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -2.4917603
       objectReference: {fileID: 0}
     - target: {fileID: 316960253558160003, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
@@ -27,7 +32,7 @@ PrefabInstance:
     - target: {fileID: 316960253882379681, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 316960253882379685, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
@@ -139,13 +144,23 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5143427122700198862, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -22.500977
+      objectReference: {fileID: 0}
     - target: {fileID: 5805186213956278314, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
       propertyPath: m_text
-      value: "Animation (Animation Clip): Um asset que contem as informa\xE7\xF5es
-        das anima\xE7\xF5es em si\n\t- Janela Animation\n\n\nAnimator: Sistema da
-        Unity que controla as anima\xE7\xF5es de um GameObjects (ou de seus filhos)\n\t-
-        Janela Animator"
+      value: "<b>Animation (Animation Clip):</b> Um asset \nque contem as informa\xE7\xF5es
+        das anima\xE7\xF5es \n     - Janela Animation\n\n\n<b>Animator: </b>Sistema
+        da Unity que controla\nas anima\xE7\xF5es de um GameObjects\n(ou de seus
+        filhos)\n     - Janela Animator"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6963646249273760376, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.10021973
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9084ab71b1ed34f69b64e6ce07f98ef2, type: 3}
