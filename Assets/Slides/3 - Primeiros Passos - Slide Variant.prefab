@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!65 &1494855849
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 502325804175500507}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &5555464837106527048
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7,6 +20,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 548985183127226819, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.2557373
+      objectReference: {fileID: 0}
     - target: {fileID: 4027216476504296765, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_text
@@ -84,6 +102,22 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5125393984549749268, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.060058594
+      objectReference: {fileID: 0}
+    - target: {fileID: 5125393984549749268, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1606548140033396563, guid: db6090b0e05914b4f867eba15a97920a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: db6090b0e05914b4f867eba15a97920a, type: 3}
+--- !u!1 &502325804175500507 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5467483736856383379, guid: db6090b0e05914b4f867eba15a97920a,
+    type: 3}
+  m_PrefabInstance: {fileID: 5555464837106527048}
+  m_PrefabAsset: {fileID: 0}
