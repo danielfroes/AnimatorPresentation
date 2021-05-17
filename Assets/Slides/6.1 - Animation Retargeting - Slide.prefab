@@ -13,7 +13,7 @@ Animator:
   m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -32,7 +32,7 @@ Animator:
   m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -69,6 +69,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WarningMessage
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1606548140033396563, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4027216476504296765, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
@@ -118,7 +123,7 @@ PrefabInstance:
     - target: {fileID: 5125393982903202672, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5125393982903202673, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
@@ -188,7 +193,7 @@ PrefabInstance:
     - target: {fileID: 5125393984549749268, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -6.300049
+      value: 0.69999695
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db6090b0e05914b4f867eba15a97920a, type: 3}

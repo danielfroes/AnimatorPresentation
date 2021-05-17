@@ -954,6 +954,11 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 16.7
       objectReference: {fileID: 0}
+    - target: {fileID: 2363376025503987983, guid: d9f8827859a2440cdb189a675a5d09ab,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -431.50006
+      objectReference: {fileID: 0}
     - target: {fileID: 6582688223502556188, guid: d9f8827859a2440cdb189a675a5d09ab,
         type: 3}
       propertyPath: m_text
@@ -2238,7 +2243,7 @@ PrefabInstance:
     - target: {fileID: 1155252810800718635, guid: a26c780f405a9431fa3e3ce02d134449,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1155252811101930395, guid: a26c780f405a9431fa3e3ce02d134449,
         type: 3}
@@ -2253,7 +2258,7 @@ PrefabInstance:
     - target: {fileID: 1155252812424270415, guid: a26c780f405a9431fa3e3ce02d134449,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -20.00003
+      value: -20
       objectReference: {fileID: 0}
     - target: {fileID: 1351715172838649877, guid: a26c780f405a9431fa3e3ce02d134449,
         type: 3}
@@ -3667,6 +3672,16 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4736282274578673716, guid: 9d825cb05f1894a238567b0928d6b3c9,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 47.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4736282274578673716, guid: 9d825cb05f1894a238567b0928d6b3c9,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 47.8
+      objectReference: {fileID: 0}
     - target: {fileID: 6427933208621837652, guid: 9d825cb05f1894a238567b0928d6b3c9,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -3830,14 +3845,14 @@ PrefabInstance:
     - target: {fileID: 4692213138508622081, guid: 3c9c6ee98cdad47d1b9a7f2a4de52199,
         type: 3}
       propertyPath: m_text
-      value: "-<b> Dividido  em: </b>\n\n    - Animator Component \n         - Ligado
+      value: "-<b> Dividido em: </b>\n\n    - Animator Component \n         - Ligado
         a um GameObject\n\t\n    - Animator Controller\n         - Um Asset em disco
         independente do componente\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 6264264433640821477, guid: 3c9c6ee98cdad47d1b9a7f2a4de52199,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -22.501007
+      value: -22.500977
       objectReference: {fileID: 0}
     - target: {fileID: 8155433684058532691, guid: 3c9c6ee98cdad47d1b9a7f2a4de52199,
         type: 3}
@@ -4091,6 +4106,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7739455438834572070, guid: f5b3048e350bd454ebf0fe6f1dcf51aa,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 48.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7739455438834572070, guid: f5b3048e350bd454ebf0fe6f1dcf51aa,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 48.35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5b3048e350bd454ebf0fe6f1dcf51aa, type: 3}
@@ -4865,7 +4890,7 @@ PrefabInstance:
     - target: {fileID: 6595293587833859947, guid: ca48db46167e74f4fb6d0910881a47b9,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -20.00003
+      value: -20
       objectReference: {fileID: 0}
     - target: {fileID: 6595293588431707662, guid: ca48db46167e74f4fb6d0910881a47b9,
         type: 3}
@@ -5844,6 +5869,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3565584757696805411, guid: b1aa51943f49b4f5eb8da21b30dba58b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.7000122
+      objectReference: {fileID: 0}
     - target: {fileID: 3565584758195686214, guid: b1aa51943f49b4f5eb8da21b30dba58b,
         type: 3}
       propertyPath: m_RootOrder
@@ -5904,21 +5934,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animation Retargeting - Slide
       objectReference: {fileID: 0}
-    - target: {fileID: 3565584758195686215, guid: b1aa51943f49b4f5eb8da21b30dba58b,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3565584758496947191, guid: b1aa51943f49b4f5eb8da21b30dba58b,
         type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 2110325809}
-    - target: {fileID: 6922338135897732964, guid: b1aa51943f49b4f5eb8da21b30dba58b,
-        type: 3}
-      propertyPath: m_ApplyRootMotion
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1aa51943f49b4f5eb8da21b30dba58b, type: 3}
 --- !u!1001 &8698382542006458608
