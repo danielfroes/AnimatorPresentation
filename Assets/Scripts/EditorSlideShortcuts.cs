@@ -10,7 +10,6 @@ namespace DefaultNamespace
         [MenuItem("SlideShow/Pass To Next Slide %RIGHT")]
         static void PassToNextSlide()
         {
-            Debug.Log("teste");
             var slideController = Object.FindObjectOfType<SlideController>();
             slideController.ToNextSlide();
         }

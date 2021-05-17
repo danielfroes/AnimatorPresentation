@@ -34,8 +34,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 389, y: -19}
-  m_SizeDelta: {x: 698.3596, y: 607.01074}
+  m_AnchoredPosition: {x: 195.77, y: -26.326}
+  m_SizeDelta: {x: 293.255, y: 259.44946}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1550236163745884394
 CanvasRenderer:
@@ -81,6 +81,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 316960253558160002, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.30004883
+      objectReference: {fileID: 0}
     - target: {fileID: 316960253558160003, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
       propertyPath: m_text
@@ -210,17 +215,17 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: "- \xC9 uma m\xE1quina de estados\n\t- Estados\n \t- Transi\xE7\xF5es\n\n-
-        Sendo que as transi\xE7\xF5es s\xE3o acionadas a apartir de uma condi\xE7\xE3o\n\n\n"
+        Sendo que as transi\xE7\xF5es s\xE3o acionadas a partir de uma condi\xE7\xE3o\n\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 6963646249273760376, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 753.76294
+      value: -318.84332
       objectReference: {fileID: 0}
     - target: {fileID: 6963646249273760376, guid: 9084ab71b1ed34f69b64e6ce07f98ef2,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -390.7
+      value: -149
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9084ab71b1ed34f69b64e6ce07f98ef2, type: 3}

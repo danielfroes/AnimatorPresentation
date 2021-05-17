@@ -9,8 +9,8 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8834909148029450351}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: a1c1a390d824242609b8c92240e622bb, type: 3}
-  m_Controller: {fileID: 9100000, guid: 80688ad1a928c40529cabd380ea84e1c, type: 2}
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -28,8 +28,8 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8834909148215260435}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: d8e78c9675b3d4e3c900098e482b100a, type: 3}
-  m_Controller: {fileID: 9100000, guid: 80688ad1a928c40529cabd380ea84e1c, type: 2}
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -59,12 +59,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Avatar
       value: 
-      objectReference: {fileID: 9000000, guid: e0aa9f916e8aa43739e6135d4cd62d19, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 1606548140033396563, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 80688ad1a928c40529cabd380ea84e1c, type: 2}
+      objectReference: {fileID: 9100000, guid: 1b19bc01d13ef404e81752a068e47c15, type: 2}
     - target: {fileID: 1606548140033396563, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_WarningMessage
@@ -80,10 +80,45 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: -0.027
       objectReference: {fileID: 0}
+    - target: {fileID: 4660020347792037161, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.196
+      objectReference: {fileID: 0}
+    - target: {fileID: 4660020347792037161, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4660020347792037161, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4660020347792037161, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4660020347792037161, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4660020347792037161, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
     - target: {fileID: 5125393982903202672, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_Name
       value: Animation Retargeting - Slide
+      objectReference: {fileID: 0}
+    - target: {fileID: 5125393982903202672, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5125393982903202673, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
@@ -148,7 +183,12 @@ PrefabInstance:
     - target: {fileID: 5125393984549749268, guid: db6090b0e05914b4f867eba15a97920a,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.059936523
+      value: -0.060058594
+      objectReference: {fileID: 0}
+    - target: {fileID: 5125393984549749268, guid: db6090b0e05914b4f867eba15a97920a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -6.300049
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db6090b0e05914b4f867eba15a97920a, type: 3}
@@ -193,7 +233,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a1c1a390d824242609b8c92240e622bb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0049965
+      value: -0.20099649
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a1c1a390d824242609b8c92240e622bb,
         type: 3}
@@ -268,7 +308,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: d8e78c9675b3d4e3c900098e482b100a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.196
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8e78c9675b3d4e3c900098e482b100a,
         type: 3}

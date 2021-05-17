@@ -89,7 +89,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 80688ad1a928c40529cabd380ea84e1c, type: 2}
+      objectReference: {fileID: 9100000, guid: 1b19bc01d13ef404e81752a068e47c15, type: 2}
+    - target: {fileID: 3687761661967170418, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3794061460949085846, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_LocalRotation.w
@@ -113,7 +118,8 @@ PrefabInstance:
     - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_text
-      value: "- Uma maneira de chamar fun\xE7\xF5es num ponto espec\xEDfico da anima\xE7\xE3o"
+      value: "- Uma maneira de chamar fun\xE7\xF5es em um ponto espec\xEDfico da
+        anima\xE7\xE3o"
       objectReference: {fileID: 0}
     - target: {fileID: 4895145688188434050, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
@@ -127,8 +133,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 3.597412
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -88
+      value: -23.699997
       objectReference: {fileID: 0}
     - target: {fileID: 8327967152948802172, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}

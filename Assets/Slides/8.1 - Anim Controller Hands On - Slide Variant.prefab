@@ -67,37 +67,56 @@ PrefabInstance:
       propertyPath: m_Name
       value: Anim Controller Hands On - Slide
       objectReference: {fileID: 0}
+    - target: {fileID: 3687761660312586447, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3687761660546672767, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3687761661967170418, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1b19bc01d13ef404e81752a068e47c15, type: 2}
     - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_text
       value: "- Cada estado tem um animation clip\n\n- Cada transi\xE7\xE3o \xE9
-        configuravel\n\n-As condi\xE7\xF5es s\xE3o o tempo final da anima\xE7\xE3o
-        ou par\xE2metros setados por c\xF3digo"
+        configuravel\n"
       objectReference: {fileID: 0}
     - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_fontSize
-      value: 58.43
+      value: 25.8
       objectReference: {fileID: 0}
     - target: {fileID: 3862981144876330851, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_fontSizeBase
-      value: 58.43
+      value: 25.8
       objectReference: {fileID: 0}
     - target: {fileID: 4895145688188434050, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_text
       value: Animator Controller
       objectReference: {fileID: 0}
+    - target: {fileID: 4895145688188434050, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 4895145688188434050, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 139.45795
+      value: 5.308716
       objectReference: {fileID: 0}
     - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
@@ -107,12 +126,17 @@ PrefabInstance:
     - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 77.1
+      value: -2.654358
       objectReference: {fileID: 0}
     - target: {fileID: 6700915146877571250, guid: 5175aadeea7954044b964c79ab9ba58d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -59.9
+      value: -31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8327967152948802172, guid: 5175aadeea7954044b964c79ab9ba58d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.21166992
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5175aadeea7954044b964c79ab9ba58d, type: 3}
