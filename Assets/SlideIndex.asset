@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44ff123ec12b49d0a926aa59be5dc8f5, type: 3}
   m_Name: SlideIndex
   m_EditorClassIdentifier: 
-  current: 7
+  current: 0
